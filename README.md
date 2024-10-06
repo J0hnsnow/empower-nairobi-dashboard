@@ -1,70 +1,31 @@
-# Welcome to your GPT Engineer project
+Gender and Climate Change: Data-Driven Solutions
+Overview
+This website models the relationship between gender inequality and climate change using open-source data to propose actionable solutions. Our aim is to highlight the disproportionate impacts of climate change on marginalized communities, particularly women, while promoting climate action that also advances gender equality.
 
-## Project info
+Key Features
+Interactive Data Visualizations: Explore the intersection of gender inequality and climate change through global and localized trends.
+Case Studies: In-depth analysis of specific regions, such as the gendered impact of climate-driven drought on pastoralist societies in Africa.
+Solution Proposals: Actionable recommendations for policy-makers, organizations, and communities to mitigate both gender inequality and climate risks.
+Problem Scope
+Climate change disproportionately affects women, especially in marginalized and vulnerable communities. From increased economic burdens to security challenges, the gendered impacts of climate change are often underreported and inadequately addressed. This website seeks to fill that gap by combining data-driven insights with practical, community-centered solutions.
 
-**URL**: https://run.gptengineer.app/projects/5623013f-b80a-496d-abe3-e5a3b5c897fc/improve
+Modeling the Gender and Climate Intersection
+1. Macro-Level Analysis
+Global Economic Impact: Study how climate disasters economically impact marginalized groups, particularly women, and propose solutions to reduce inequality.
+Data Gaps and Bias: Highlight underreported gendered impacts of climate change and propose methods for improving data collection and accessibility.
+2. Case Studies
+Localized Gendered Impact: Examine the effects of climate-driven droughts on the gendered division of labor in pastoralist societies in African countries.
+Community-Based Climate Mitigation Plans: Propose solutions such as climate-resilient agriculture and gender-sensitive policies that empower local women in vulnerable regions.
+Potential Solutions
+Improved Data Collection: Propose methods to collect and display gender and climate data, with a focus on eliminating algorithmic biases and filling the gender data gap.
+Community-Specific Mitigation Plans: Develop localized strategies for mitigating climate impacts, incorporating traditional knowledge and addressing the unique needs of women in the community.
+Policy Recommendations: Suggest policy changes that promote gender-responsive climate action, including access to climate adaptation resources for women in affected regions.
+Data Sources
+NASA SEDAC: Data from NASA's Socioeconomic Data and Applications Center on climate change and socioeconomic factors.
+UN Sustainable Development Goals: Relevant SDGs related to gender equality and climate action.
+Open-Source Gender and Climate Data: Publicly available datasets on gender inequality and environmental impacts.
+Hosted Site
+Visit the hosted site: [https://empower-nairobi-dashboard.vercel.app/]
 
-## How can I edit this code?
-
-There are several ways of editing your application.
-
-**Use GPT Engineer**
-
-Simply visit the GPT Engineer project at [GPT Engineer](https://gptengineer.app/projects/5623013f-b80a-496d-abe3-e5a3b5c897fc/improve) and start prompting.
-
-Changes made via gptengineer.app will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in the GPT Engineer UI.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with .
-
-- Vite
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-All GPT Engineer projects can be deployed directly via the GPT Engineer app.
-
-Simply visit your project at [GPT Engineer](https://gptengineer.app/projects/5623013f-b80a-496d-abe3-e5a3b5c897fc/improve) and click on Share -> Publish.
-
-## I want to use a custom domain - is that possible?
-
-We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.gptengineer.app/tips-tricks/custom-domain/)
+Purpose
+This platform serves as a resource for researchers, policy-makers, and communities seeking to address the intersection of gender and climate change. By providing data-driven insights and practical solutions, we aim to foster meaningful actions that promote both gender equality and climate resilience.
